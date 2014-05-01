@@ -1,0 +1,14 @@
+
+Xen Infrastructure:
+
+1.) DNS
+2.) Mail
+3.) IRC
+4.) Munin/collectd
+5.) Tor
+6.) Monitoring
+	a.) Zabbix
+	b.) OpenNMS
+	c.) Zenoss
+7.) FTP
+8.) Firewall
