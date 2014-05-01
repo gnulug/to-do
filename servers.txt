@@ -12,3 +12,5 @@ Xen Infrastructure:
 	c.) Zenoss
 7.) FTP
 8.) Firewall
+9.) PXE/DHCP/Kickstart type server
+10.) Ansible (provisioning)
