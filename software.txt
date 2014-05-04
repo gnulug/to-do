@@ -1,0 +1,5 @@
+Thing to play with and learn
+
+1.) Process Accounting
+2.) Auditd
+3.) Iptables' ulogd and NFLog for policy violations
