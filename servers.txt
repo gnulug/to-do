@@ -1,4 +1,3 @@
-
 Xen Infrastructure:
 
 1.) DNS
@@ -16,4 +15,5 @@ Xen Infrastructure:
 10.) Ansible (provisioning)
 11.) Cluster
 12.) Kerberos
-13.) OpenLDAP
+13.) LDAP
+14.) Syslog
