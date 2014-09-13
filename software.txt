@@ -3,3 +3,7 @@ Thing to play with and learn
 1.) Process Accounting
 2.) Auditd
 3.) Iptables' ulogd and NFLog for policy violations
+4.) Kerberos
+5.) Backups
+6.) application monitoring tools like SNMP or Nagios
+7.) Creating filesystems from scratch, mounting filesystems, samba
