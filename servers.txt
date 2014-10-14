@@ -1,4 +1,3 @@
-
 Xen Infrastructure:
 
 1.) DNS
@@ -10,10 +9,15 @@ Xen Infrastructure:
 	a.) Zabbix
 	b.) OpenNMS
 	c.) Zenoss
+	d.) Nagios
 7.) FTP
 8.) Firewall
 9.) PXE/DHCP/Kickstart type server
 10.) Ansible (provisioning)
-11.) Kerberos
-12.) LDAP
-13.) NIS
+11.) Cluster
+12.) Kerberos
+13.) LDAP
+14.) Syslog
+15.) DHCP
+16.) VPN
+17.) NIS

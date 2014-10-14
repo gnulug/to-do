@@ -3,3 +3,20 @@ Thing to play with and learn
 1.) Process Accounting
 2.) Auditd
 3.) Iptables' ulogd and NFLog for policy violations
+4.) Kerberos
+5.) Backups
+6.) application monitoring tools like SNMP or Nagios
+7.) Creating filesystems from scratch, mounting filesystems, samba
+
+-- CAN WE DO SOME Operating Systems DEV stuff --
+1. Real-Time Process scheduling
+2. Compressed Caching
+3. ZFS porting
+4. Implementing GFS
+5. Hypervisors ??
+.
+.
+.
+-- Sanchit
+
+
