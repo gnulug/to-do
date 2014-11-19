@@ -21,3 +21,4 @@ Xen Infrastructure:
 15.) DHCP
 16.) VPN
 17.) NIS
+18.) XMPP
