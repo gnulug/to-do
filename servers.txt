@@ -26,7 +26,8 @@ Claim your project by adding your name:
 15.) DHCP
 16.) VPN
 17.) NIS
-17.) Containers
+18.) XMPP
+19.) Containers
   a.) Docker cluster (jschipp)
   b.) Rocket
   c.) CoreOS

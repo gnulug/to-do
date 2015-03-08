@@ -7,6 +7,7 @@ Thing to play with and learn
 5.) Backups
 6.) application monitoring tools like SNMP or Nagios
 7.) Creating filesystems from scratch, mounting filesystems, samba
+8.) CoreOS? CoreOS, etcd, docker, not sure of an actual use case but these are very COOL.
 
 -- CAN WE DO SOME Operating Systems DEV stuff --
 1. Real-Time Process scheduling
