@@ -1,28 +1,30 @@
 Xen Infrastructure:
 Claim your project by adding your name:
+# is finished
+~ in progress
 
 1.) DNS
 2.) Mail
 3.) IRC
 4.) Graphing
   a.) Munin
-  b.) collectd (jschipp)
+  b.) collectd (jschipp) #
   c.) Grafana
   d.) InfluxDB
-5.) Tor (jschipp)
+5.) Tor (jschipp) #
 6.) Monitoring
   a.) Zabbix
   b.) OpenNMS
   c.) Zenoss
   d.) Nagios (jschipp)
-7.) FTP
+7.) FTP (wayland)
 8.) Firewall
 9.) PXE/DHCP/Kickstart type server (jschipp)
 10.) Ansible
 11.) Cluster
 12.) Kerberos (jschipp)
 13.) LDAP (jschipp)
-14.) Syslog (jschipp)
+14.) Syslog (jschipp) #
 15.) DHCP
 16.) VPN
 17.) NIS
@@ -32,3 +34,7 @@ Claim your project by adding your name:
   b.) Rocket
   c.) CoreOS
   d.) OpenVZ
+20.) Repo - Cacher and Repository (jschipp) #
+21.) Jenkins (sam)
+22.) ISLET (jschipp) #
+23.) Vagrant (jschipp) #
