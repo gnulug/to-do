@@ -1,21 +1,20 @@
 Thing to play with and learn
 
-1.) Process Accounting
-2.) Auditd
-3.) Iptables' ulogd and NFLog for policy violations
-4.) Kerberos
-5.) Backups
-6.) application monitoring tools like SNMP or Nagios
-7.) Creating filesystems from scratch, mounting filesystems, samba
-8.) CoreOS? CoreOS, etcd, docker, not sure of an actual use case but these are very COOL.
-9.) Debugging/Profiling: gdb, ltrace, lsof, LTTng, OProfile, perf, valgrind, iogrind, SystemTAP, Vampir
-10.) sysdig
-11.) LTTng
-12.) debugfs tools
-13.) dtrace
-14.) BootChart
-15.) Systemd
-16.) Linux API programming
+Process Accounting, Auditd
+Iptables' ulogd and NFLog for policy violations
+selinux
+Kerberos
+Backups
+Creating filesystems from scratch, mounting filesystems, samba
+filesystems
+CoreOS, etcd, docker, fleet, lxc, unshare,nsenter
+gdb ltrace dtrace lsof LTTng OProfile perf valgrind iogrind SystemTAP Vampir sysdig
+debugfs tools
+BootChart
+Systemd
+Linux API programming
+moreutils
+smack
 
 
 -- CAN WE DO SOME Operating Systems DEV stuff --
