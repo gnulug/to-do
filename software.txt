@@ -16,6 +16,8 @@ Linux API programming
 moreutils
 smack
 
+## Miscellaneous
+- linux system general troubleshooting procedure and skillsets
 
 -- CAN WE DO SOME Operating Systems DEV stuff --
 1. Real-Time Process scheduling
